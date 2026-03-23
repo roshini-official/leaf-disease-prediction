@@ -71,3 +71,9 @@ GitHub: https://github.com/roshini-official
 ---
 
 ## 📂 Project Structure
+leaf-disease-prediction/
+│── dataset/
+│── model/
+│── main.py
+│── requirements.txt
+│── README.md
